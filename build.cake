@@ -4,7 +4,6 @@
 #tool nuget:?package=Cake.MonoApiTools&version=2.0.0
 #tool nuget:?package=Microsoft.DotNet.BuildTools.GenAPI&version=1.0.0-beta-00081
 #tool nuget:?package=NUnit.Runners&version=2.6.6
-#tool nuget:?package=Paket
 #tool nuget:?package=vswhere
 
 // Dependencies of Cake Addins - this should be removed once 
